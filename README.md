@@ -25,7 +25,7 @@ I am presently working as Assistant Professor in the Department of Computer Scie
 
 ## PhD Thesis Details
 
-Tentative Thesis Title: Exploration of Rowhammer Attack on Embedded Devices 
+Tentative Thesis Title: Exploration of RowHammer Attack on Embedded Devices 
 
 Advisor: Dr. Bibhas Ghoshal (https://profile.iiita.ac.in/bibhas.ghoshal/)
 
